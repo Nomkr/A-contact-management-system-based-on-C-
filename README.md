@@ -67,7 +67,7 @@ int main() {
 **功能描述：** 用户选择功能的界面
 
 菜单界面效果如下图：
-address-book/image/Quicker_20260503_093221.png
+[address-book/image/Quicker_20260503_093221.png](https://github.com/Nomkr/A-contact-management-system-based-on-C-/blob/b58ed901f97fbdfca1fb59bbe9926ae9d99d55dd/Quicker_20260503_093221.png)
 
 
 **步骤：**
